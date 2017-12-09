@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FF Eslint configurations",
   "main": "index.js",
   "author": "",

@@ -19,7 +19,8 @@ module.exports = {
     "no-console": 0,
     "no-alert": 0,
     "no-param-reassign": 0,
-    "prefer-template": 0
+    "prefer-template": 1,
+    "space-before-function-paren": 0
   },
   "plugins": [
     "import"
