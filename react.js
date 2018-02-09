@@ -30,6 +30,7 @@ module.exports = {
     "__SERVER__": true,
     "__DISABLE_SSR__": true,
     "__DEVTOOLS__": true,
+    "OT": true,
     "socket": true,
     "webpackIsomorphicTools": true
   }
